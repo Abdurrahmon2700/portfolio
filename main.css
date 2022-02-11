@@ -216,6 +216,11 @@ body {
     bottom: -100px;
   }
   
+  .manage__hero-img {
+    /* width: 100%; */
+    width: 311px;
+    height: 140px;
+  }
 }
 
 
@@ -257,3 +262,8 @@ footer {
   margin-bottom: 50px;
 }
 
+.manage__hero-img {
+  width: 100%;
+  max-width: 1100px;
+  height: 500px;
+}
